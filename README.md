@@ -8,7 +8,4 @@
   <a href="mailto:contact@delandcaglar.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
-  <a href="mailto:contact@delandcaglar.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
 </p>
