@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCehC9DKqVdyP_SAJB7beJ1A">
-    <img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="youtube" />
+    <img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" size=10px alt="youtube" />
   </a>
   <a href="https://www.linkedin.com/in/delandcaglar">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
