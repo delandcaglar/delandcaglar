@@ -5,7 +5,4 @@
   <a href="https://www.instagram.com/delandcaglar/">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:contact@delandcaglar.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
 </p>
